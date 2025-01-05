@@ -4,4 +4,6 @@
 | Diksha Gupta      | dikshagupta02004@gmail.com |9111998810  | dikshagupta3094    | https://www.linkedin.com/in/diksha-gupta3094/| Informative and engaging! |
 | Divyesh Singh Gehlot   | gehlotdivyeshsingh@gmail.com |182309370   | divyesh-singh-gehlot |  https://www.linkedin.com/in/divyesh-singh-gehlot-792055295/ | Learned something new (git stash)
 | Sahil Kukreja         | sahilkukreja4321@gmail.com |6264170693  | Sahilkukreja30   | https://www.linkedin.com/in/sahil-kukreja-943993289/  | Nice session learned a lot about git and open source
+| Anusha Sahu       | anusha0507@gmail.com |9755392915  | anusha0507       | https://www.linkedin.com/in/anusha-sahu-as0507/ | Informative and engaging! |
+
 
