@@ -10,3 +10,4 @@
 | Shruti Jain     | sj0900777@gmail.com          | 9109607094 | SJ0900777   | https://www.linkedin.com/in/shruti-jain-a08654195/     | Awesome session , loved it , time to acp(add,commit,push) |
 | Shivam Rathod       | shivamrathod145@gmail.com | 9340761474  | shivamr021       | linkedin.com/in/shivamrathod021/ | Informative and engaging! |
 | Swasti Jain  | jainswasti240@gmail.com |7803837078  | Swasti2004 | https://www.linkedin.com/in/swasti-jain2004/| really interactive session
+| Lokesh Patel        | patel.lokeshkrishna@gmail.com |9322664002 | lokeshpatel-11       | https://www.linkedin.com/in/lokesh-patel-b41795254/ | Amazing Session |
