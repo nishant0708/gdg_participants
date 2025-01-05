@@ -8,3 +8,4 @@
 | Anusha Sahu       | anusha0507@gmail.com |9755392915  | anusha0507       | https://www.linkedin.com/in/anusha-sahu-as0507/ | Informative and engaging! |
 | Arpan Patra            | <thispc119@gmail.com>          |9111155305  | ARPANPATRA111       | <https://www.linkedin.com/in/arpan-patra-1b1041320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app> | Badhiya bhai moj aagyi |
 | Arya sharma        | aryasha4906c@gmail.com |7049780160  | Arya Sharma      | www.linkedin.com/in/arya-sharma-1963b030a | Amazing ! |
+| Shruti Jain     | sj0900777@gmail.com          | 9109607094 | SJ0900777   | https://www.linkedin.com/in/shruti-jain-a08654195/     | Awesome session , loved it , time to acp(add,commit,push) |
