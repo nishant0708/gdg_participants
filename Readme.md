@@ -1,3 +1,3 @@
 | Name            | Email              | Phone No.    | GitHub ID      | LinkedIn            | Review on Session       |
 |-----------------|--------------------|--------------|----------------|---------------------|-------------------------|
-| Nishant kaushal        | nishantkaushal0708@gmail.com |9302836725  | nishant0708       | https://www.linkedin.com/in/nishant-kaushal-12b25a267/ | Informative and engaging! |
+| Shubhansh Sharma        | shubhanshsharma030604@gmail.com |9713591391  | ShubhanshSharma       | https://www.linkedin.com/in/shubhansh-sharma-308062263/ | Informative! |
