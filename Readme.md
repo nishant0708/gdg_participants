@@ -1,3 +1,3 @@
 | Name            | Email              | Phone No.    | GitHub ID      | LinkedIn            | Review on Session       |
 |-----------------|--------------------|--------------|----------------|---------------------|-------------------------|
-| Nishant kaushal        | nishantkaushal0708@gmail.com |9302836725  | nishant0708       | https://www.linkedin.com/in/nishant-kaushal-12b25a267/ | Informative and engaging! |
+| Somya Shukla       | somyashukla2702@gmail.com |7477007138  | somya0827       | https://www.linkedin.com/in/somya-shukla-3a55a7250 | Informative and engaging! |
