@@ -11,3 +11,4 @@
 | Shivam Rathod       | shivamrathod145@gmail.com | 9340761474  | shivamr021       | linkedin.com/in/shivamrathod021/ | Informative and engaging! |
 | Swasti Jain  | jainswasti240@gmail.com |7803837078  | Swasti2004 | https://www.linkedin.com/in/swasti-jain2004/| really interactive session
 | Lokesh Patel        | patel.lokeshkrishna@gmail.com |9322664002 | lokeshpatel-11       | https://www.linkedin.com/in/lokesh-patel-b41795254/ | Amazing Session |
+| Somya Shukla       | somyashukla2702@gmail.com |7477007138  | somya0827       | https://www.linkedin.com/in/somya-shukla-3a55a7250 | Informative and engaging! |
